@@ -109,7 +109,7 @@ valgrind --leak-check=full ./minishell
 
 ---
 
-## Project Structure (example)
+## Project Structure
 
 ```
 minishell/
@@ -121,14 +121,6 @@ minishell/
 ├── Makefile
 └── README.md
 ```
-
----
-
-## Author
-
-- **aiturria**
-- **ide-la-f**
-  42 Málaga
 
 ---
 
